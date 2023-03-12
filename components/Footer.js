@@ -24,8 +24,8 @@ const Footer = () => {
 						<Col xxl={6} xl={7} lg={8} md={10}>
 							<div className="footer__newsletter">
 								<SectionTitle
-									subTitle="Join Our Community"
-									titleFirst="Subscribe for newsletter"
+									subTitle="Inscribete a nuestra comunidad"
+									titleFirst="Newsletter"
 								/>
 							</div>
 						</Col>
@@ -37,10 +37,10 @@ const Footer = () => {
 											<input
 												type="email"
 												className="form-control"
-												placeholder="Email address"
+												placeholder="Email"
 											/>
 										</div>
-										<button type="submit">Subscribe</button>
+										<button type="submit">Inscribirse</button>
 									</div>
 								</form>
 							</div>
@@ -64,24 +64,14 @@ const Footer = () => {
 									</p>
 								</div>
 								<div className="footer__widget-social">
-									<Link href="#">
+									<Link href="https://www.linkedin.com/in/nathalia-miranda/">
 										<a>
-											<i className="fa-brands fa-facebook-f"></i>
+											<i className="fa-brands fa-linkedin"></i>
 										</a>
 									</Link>
-									<Link href="#">
-										<a>
-											<i className="fa-brands fa-twitter"></i>
-										</a>
-									</Link>
-									<Link href="#">
+									<Link href="https://www.instagram.com/nathaliamirandaortiz/">
 										<a>
 											<i className="fa-brands fa-instagram"></i>
-										</a>
-									</Link>
-									<Link href="#">
-										<a>
-											<i className="fa-brands fa-youtube"></i>
 										</a>
 									</Link>
 								</div>
@@ -90,33 +80,37 @@ const Footer = () => {
 						<Col xl={2} lg={2} md={4} sm={6}>
 							<div className="footer__widget">
 								<div className="footer__widget-title">
-									<h5>Our Services</h5>
+									<Link href="/services">
+										<a>
+											<h5>Servicios</h5>
+										</a>
+									</Link>
 								</div>
 								<div className="footer__widget-link">
 									<ul>
 										<li>
 											<Link href="/services-details">
-												<a>Development</a>
+												<a>Ikigai – Propósito superior</a>
 											</Link>
 										</li>
 										<li>
 											<Link href="/services-details">
-												<a>marketing</a>
+												<a>Inteligencia emocional</a>
 											</Link>
 										</li>
 										<li>
 											<Link href="/services-details">
-												<a>UI/UX Design</a>
+												<a>PNL Programación Neurolingüística</a>
 											</Link>
 										</li>
 										<li>
 											<Link href="/services-details">
-												<a>E-commerce</a>
+												<a>Gestión del cambio</a>
 											</Link>
 										</li>
 										<li>
 											<Link href="/services-details">
-												<a>Content Writing</a>
+												<a>Certificaciones B</a>
 											</Link>
 										</li>
 									</ul>
@@ -126,33 +120,33 @@ const Footer = () => {
 						<Col xl={2} lg={2} md={4} sm={6}>
 							<div className="footer__widget footer__widget-mt-2">
 								<div className="footer__widget-title">
-									<h5>Company</h5>
+									<h5>Transformente</h5>
 								</div>
 								<div className="footer__widget-link">
 									<ul>
 										<li>
 											<Link href="/about">
-												<a>About us</a>
-											</Link>
-										</li>
-										<li>
-											<Link href="/portfolio">
-												<a>Portfolio</a>
-											</Link>
-										</li>
-										<li>
-											<Link href="/team">
-												<a>Our Team</a>
-											</Link>
-										</li>
-										<li>
-											<Link href="/contact">
-												<a>Contact</a>
+												<a>Nosotros</a>
 											</Link>
 										</li>
 										<li>
 											<Link href="/services">
-												<a>Services</a>
+												<a>Servicios</a>
+											</Link>
+										</li>
+										<li>
+											<Link href="/team">
+												<a>Equipo</a>
+											</Link>
+										</li>
+										<li>
+											<Link href="/contact">
+												<a>Contacto</a>
+											</Link>
+										</li>
+										<li>
+											<Link href="/services">
+												<a>Servicios</a>
 											</Link>
 										</li>
 									</ul>
@@ -162,20 +156,17 @@ const Footer = () => {
 						<Col xl={4} lg={4} md={4} sm={10}>
 							<div className="footer__widget footer__widget-mt">
 								<div className="footer__widget-title">
-									<h5>Stay Connected</h5>
+									<h5>Información</h5>
 								</div>
 								<div className="footer__widget-info">
 									<div className="footer__widget-address">
-										<p>
-											66 Broklyn Street, New York United States of
-											America
-										</p>
+										<p>Medellín, Antioquia</p>
 									</div>
 									<div className="footer__widget-phone d-flex align-items-center">
 										<i className="fa-solid fa-phone"></i>
 										<p>
-											<Link href="tel:+1166442200">
-												<a>+11 66 44 22 00</a>
+											<Link href="tel:+57">
+												<a>+57 00 00 00 00</a>
 											</Link>
 										</p>
 									</div>

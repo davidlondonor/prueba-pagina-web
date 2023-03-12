@@ -113,7 +113,7 @@ const HeroTwo = () => {
 						<Col xl={6}>
 							<div className="services__title">
 								<SectionTitle
-									subTitle="Services"
+									subTitle="Servicios"
 									titleFirst="Que hacemos"
 								/>
 							</div>

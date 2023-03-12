@@ -368,7 +368,7 @@ textarea {
 	text-align: center;
 	padding: 15px 35px;
 	display: inline-block;
-	background: #7432ff;
+	background: #e62868;
 	border-radius: 8px;
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
@@ -3854,7 +3854,7 @@ textarea {
 	opacity: 1;
 }
 .swiper-pagination-bullet-active {
-	background: #7432ff;
+	background: #e62868;
 	width: 32px;
 	border-radius: 5px;
 }
@@ -5430,7 +5430,7 @@ textarea {
 	color: #ffffff;
 }
 .footer__newsletter .section__title span::after {
-	background: #7432ff;
+	background: #70c8b9;
 }
 .footer__subscribe {
 	padding-top: 40px;
@@ -5503,7 +5503,7 @@ textarea {
 	top: 0;
 	right: 0;
 	font-size: 16px;
-	color: #4a4f61;
+	color: white;
 	background: #e62868;
 	border-radius: 50px;
 	-webkit-border-radius: 50px;
@@ -5577,7 +5577,7 @@ textarea {
 .footer__widget-social a {
 	font-size: 16px;
 	margin-right: 30px;
-	background: #7432ff;
+	background: #e62868;
 	color: #ffffff;
 	display: inline-block;
 	width: 38px;
@@ -5600,7 +5600,7 @@ textarea {
 	font-family: "Open Sans", sans-serif;
 	font-size: 18px;
 	font-weight: 600;
-	color: #7432ff;
+	color: #e62868;
 	display: inline-block;
 	position: relative;
 }
@@ -5660,7 +5660,7 @@ textarea {
 .footer__widget-phone i {
 	font-size: 18px;
 	padding-right: 15px;
-	color: #c5f617;
+	color: #e62868;
 }
 .footer__widget-phone p {
 	color: #ffffff;
@@ -5669,7 +5669,7 @@ textarea {
 .footer__widget-email i {
 	font-size: 18px;
 	padding-right: 15px;
-	color: #7432ff;
+	color: #e62868;
 }
 .footer__widget-email p {
 	color: #ffffff;

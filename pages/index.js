@@ -7,7 +7,7 @@ import Services from "../components/Services";
 // import Facts from "../components/Facts";
 import Portfolio from "../components/Portfolio";
 import Experience from "../components/Experience";
-import Testimonial from "../components/Testimonial";
+// import Testimonial from "../components/Testimonial";
 import Faq from "../components/Faq";
 import BlogHome from "../components/BlogHome";
 import LetsWork from "../components/LetsWork";
@@ -28,10 +28,10 @@ const HomeOne = () => {
 				{/* <Facts /> */}
 				<Portfolio />
 				<Experience />
-				<Testimonial
+				{/* <Testimonial
 					testimonialArea="testimonials__area"
 					paddingTop="pt-120"
-				/>
+				/> */}
 				<Faq />
 				<BlogHome extraClass="pt-60" />
 				<LetsWork />

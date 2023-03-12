@@ -16,7 +16,7 @@ const NavMenu = () => {
 				<button className="dropdown" onClick={showActive}>
 					<i className="fa-solid fa-chevron-left"></i>
 				</button>
-				<ul className="submenu">
+				{/* <ul className="submenu">
 					<li>
 						<Link href="/">
 							<a>Digital Agency</a>
@@ -27,7 +27,7 @@ const NavMenu = () => {
 							<a>Creative Agency</a>
 						</Link>
 					</li>
-				</ul>
+				</ul> */}
 			</li>
 			<li>
 				<Link href="/about">
@@ -71,7 +71,7 @@ const NavMenu = () => {
 			</li>
 			<li>
 				<Link href="/services">
-					<a>Services</a>
+					<a>Servicios</a>
 				</Link>
 				<button className="dropdown" onClick={showActive}>
 					<i className="fa-solid fa-chevron-left"></i>
@@ -79,7 +79,7 @@ const NavMenu = () => {
 				<ul className="submenu">
 					<li>
 						<Link href="/services">
-							<a>Services</a>
+							<a>Servicios</a>
 						</Link>
 					</li>
 					<li>
