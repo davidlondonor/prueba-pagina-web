@@ -4,7 +4,7 @@ import Header from "../components/Header";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Services from "../components/Services";
-import Facts from "../components/Facts";
+// import Facts from "../components/Facts";
 import Portfolio from "../components/Portfolio";
 import Experience from "../components/Experience";
 import Testimonial from "../components/Testimonial";
@@ -25,7 +25,7 @@ const HomeOne = () => {
 					titleSecond="Nos dedicamos al desarrollo de personas, proyectos y organizaciones"
 				/>
 				<Services extraClass="mt-75" />
-				<Facts />
+				{/* <Facts /> */}
 				<Portfolio />
 				<Experience />
 				<Testimonial

@@ -6,44 +6,44 @@ import ServiceItem from "./ServiceItem";
 const SERVICE_DATA = [
 	{
 		serviceIcon: "/assets/images/icon/s-icon-1.png",
-		serviceTitle: "UI/UX Design",
+		serviceTitle: "Ikigai – Propósito superior",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"Descubrir y construir la razón de ser de las rutinas como motivación principal y gran herramienta para fluir mejor en un entorno de incertidumbre, complejo, ambiguo y volátil que nos propone este presente.",
 		serviceLink: "/services-details",
 	},
 	{
 		serviceIcon: "/assets/images/icon/s-icon-2.png",
-		serviceTitle: "Web Development",
+		serviceTitle: "Inteligencia emocional",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"Comprender las emociones que gobiernan al ser humano, gestionar las que se reconocen en uno mismo, y también gestionar las que se reconocen en los demás, permite un relacionamiento asertivo conmigo, con los otros y con lo otro, desarrollando así el potencial que tiene para movilizar hacia los resultados ágilmente.",
 		serviceLink: "/services-details",
 	},
 	{
 		serviceIcon: "/assets/images/icon/s-icon-3.png",
-		serviceTitle: "App Development",
+		serviceTitle: "PNL:",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"Se aprenderá a aplicar esta forma de cambiar los pensamientos y hábitos de una persona para que sean exitosos por medio de técnicas de percepción, comportamiento y comunicación. ",
 		serviceLink: "/services-details",
 	},
 	{
 		serviceIcon: "/assets/images/icon/s-icon-4.png",
-		serviceTitle: "Digital Marketing",
+		serviceTitle: "Gestión del cambio",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"Acompañamos a las organizaciones a despertar en su talento  una disposición positiva a cualquier tipo de cambio, para así instalar nuevas mentalidades, resiliencia y apropiación de las nuevas formas de hacer las cosas.",
 		serviceLink: "/services-details",
 	},
 	{
 		serviceIcon: "/assets/images/icon/s-icon-5.png",
-		serviceTitle: "Content Writing",
+		serviceTitle: "Certificaciones B para empresas",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"Acompañamos a las organizaciones a ser relevantes para la sociedad, pasando de ser empresas del mundo a ser empresas para el mundo por medio del procesod e certificación de empresas B Lationamérica.",
 		serviceLink: "/services-details",
 	},
 	{
 		serviceIcon: "/assets/images/icon/s-icon-6.png",
-		serviceTitle: "E-commerce",
+		serviceTitle: "Sinergia de equipo:",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"La suma de los factores es algo más grande o más valioso que cada una de las partes por separado. En este espacio lograremos que todos los elementos tengan tal grado de conexión entre ellos que sean capaces de derribar los silos de trabajo, eliminando así la individualidad y crecer en conjunto. ",
 		serviceLink: "/services-details",
 	},
 ];

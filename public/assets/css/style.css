@@ -1975,7 +1975,7 @@ textarea {
 	color: #ffffff;
 }
 .services__title .section__title span::after {
-	background: #7432ff;
+	background: #e62868;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px),
 	only screen and (min-width: 576px) and (max-width: 767px),
@@ -2239,7 +2239,7 @@ textarea {
 	left: 0;
 	width: 40px;
 	height: 40px;
-	background: #7432ff;
+	background: #e62868;
 	border-radius: 50px;
 	-webkit-border-radius: 50px;
 	-moz-border-radius: 50px;

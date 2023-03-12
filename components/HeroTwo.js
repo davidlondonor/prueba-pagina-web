@@ -7,9 +7,9 @@ import HeroService from "./HeroService";
 const HERO_DATA = [
 	{
 		serviceIcon: "/assets/images/icon/s2-icon-1.png",
-		serviceTitle: "UI/UX Design",
+		serviceTitle: "Ikigai – Propósito superior",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"Descubrir y construir la razón de ser de las rutinas como motivación principal y gran herramienta para fluir mejor en un entorno de incertidumbre, complejo, ambiguo y volátil que nos propone este presente. ",
 		serviceLink: "/services-details",
 		bgClass: "single__bg-pink",
 		iconClass: "single__service-icon-pink",
@@ -17,9 +17,9 @@ const HERO_DATA = [
 	},
 	{
 		serviceIcon: "/assets/images/icon/s2-icon-2.png",
-		serviceTitle: "Web Development",
+		serviceTitle: "Inteligencia emocional:",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"Comprender las emociones que gobiernan al ser humano, gestionar las que se reconocen en uno mismo, y también gestionar las que se reconocen en los demás, permite un relacionamiento asertivo conmigo, con los otros y con lo otro, desarrollando así el potencial que tiene para movilizar hacia los resultados ágilmente. ",
 		serviceLink: "/services-details",
 		bgClass: "single__bg-yellow",
 		iconClass: "single__service-icon-yellow",
@@ -27,9 +27,9 @@ const HERO_DATA = [
 	},
 	{
 		serviceIcon: "/assets/images/icon/s2-icon-3.png",
-		serviceTitle: "App Development",
+		serviceTitle: "PNL:",
 		serviceDesc:
-			"Beautiful and Influential websites & apps that are mobile friendly quick to load and help drive sales giving you a solid presence online.",
+			"Se aprenderá a aplicar esta forma de cambiar los pensamientos y hábitos de una persona para que sean exitosos por medio de técnicas de percepción, comportamiento y comunicación. ",
 		serviceLink: "/services-details",
 		bgClass: "single__bg-green",
 		iconClass: "single__service-icon-green",
