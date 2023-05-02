@@ -8,7 +8,7 @@ import Footer from "../components/Footer";
 
 const ServicesDetailsPage = () => {
 	return (
-		<Layout pageTitle="Maxdi | Business & Digital Agency">
+		<Layout pageTitle="trans | Business & Digital Agency">
 			<PageHeader
 				title="Detalle de servicios"
 				crumbTitle="Detalle de servicios"

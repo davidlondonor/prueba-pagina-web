@@ -65,12 +65,12 @@ const Footer = () => {
 								</div>
 								<div className="footer__widget-social">
 									<Link href="https://www.linkedin.com/in/nathalia-miranda/">
-										<a>
+										<a aria-label="Encuentra el perfil en Linkedin">
 											<i className="fa-brands fa-linkedin"></i>
 										</a>
 									</Link>
 									<Link href="https://www.instagram.com/nathaliamirandaortiz/">
-										<a>
+										<a aria-label="Encuentra el perfil en Instagram">
 											<i className="fa-brands fa-instagram"></i>
 										</a>
 									</Link>
@@ -165,8 +165,8 @@ const Footer = () => {
 									<div className="footer__widget-phone d-flex align-items-center">
 										<i className="fa-solid fa-phone"></i>
 										<p>
-											<Link href="tel:+57">
-												<a>+57 00 00 00 00</a>
+											<Link href="tel:+573007855675">
+												<a>+57 300 785 56 75</a>
 											</Link>
 										</p>
 									</div>

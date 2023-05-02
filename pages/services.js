@@ -3,14 +3,14 @@ import Layout from "../components/Layout";
 import Header from "../components/Header";
 import PageHeader from "../components/PageHeader";
 import Services from "../components/Services";
-import Maxdi from "../components/Maxdi";
+import trans from "../components/trans";
 import Faq from "../components/Faq";
 import LetsWork from "../components/LetsWork";
 import Footer from "../components/Footer";
 
 const ServicesPage = () => {
 	return (
-		<Layout pageTitle="Maxdi | Business & Digital Agency">
+		<Layout pageTitle="trans | Business & Digital Agency">
 			<PageHeader title="Servicios" crumbTitle="Servicios" />
 			<Header
 				heroLogo="/assets/images/logo/logo.svg"
@@ -19,7 +19,7 @@ const ServicesPage = () => {
 			/>
 			<main>
 				<Services />
-				<Maxdi />
+				<trans />
 				<Faq />
 				<LetsWork />
 			</main>

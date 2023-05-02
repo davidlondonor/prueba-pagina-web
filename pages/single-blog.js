@@ -8,7 +8,7 @@ import Footer from "../components/Footer";
 
 const SingleBlog = () => {
 	return (
-		<Layout pageTitle="Maxdi | Business & Digital Agency">
+		<Layout pageTitle="trans | Business & Digital Agency">
 			<PageHeader title="Blog detalles" crumbTitle="Blog detalles" />
 			<Header
 				heroLogo="/assets/images/logo/logo.svg"

@@ -1,13 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Maxdi
-    Author: Alimasha
-    Support: alimashadesign@gmail.com
-    Description: Creative Agency HTML5 Template 
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
 /************ TABLE OF CONTENTS ***************
 
     01. Common CSS
@@ -23,7 +13,7 @@
     11. Blog CSS
     12. Lets-work CSS
     13. Footer CSS
-    14. Maxdi CSS
+    14. trans CSS
     15. Project CSS
     16. Customers CSS
     17. Pricing CSS
@@ -34,25 +24,25 @@
 
 **********************************************/
 
-@import 'variables';
-@import 'mixins';
-@import 'common';
-@import 'header';
-@import 'hero';
-@import 'about';
-@import 'services';
-@import 'facts';
-@import 'portfolio';
-@import 'experience';
-@import 'testimonials';
-@import 'faq';
-@import 'blog';
-@import 'lets-work';
-@import 'footer';
-@import 'maxdi';
-@import 'project';
-@import 'customers';
-@import 'pricing';
-@import 'page-title';
-@import 'team';
-@import 'contact';
+@import "variables";
+@import "mixins";
+@import "common";
+@import "header";
+@import "hero";
+@import "about";
+@import "services";
+@import "facts";
+@import "portfolio";
+@import "experience";
+@import "testimonials";
+@import "faq";
+@import "blog";
+@import "lets-work";
+@import "footer";
+@import "trans";
+@import "project";
+@import "customers";
+@import "pricing";
+@import "page-title";
+@import "team";
+@import "contact";

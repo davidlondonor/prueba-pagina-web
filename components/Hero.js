@@ -53,17 +53,17 @@ const Hero = () => {
 							/>
 						</div>
 						<div className="hero__content">
-							<h4 className="section__sub-title">Somos</h4>
+							<h4 className="section__sub-title">Nosotros</h4>
 							<h2 className="hero__title">
 								<span>Creamos futuro</span>
 								Transformamos presentes para crear futuros.
 							</h2>
 							<p>
-								Nos dedicamos al desarrollo de personas, proyectos y
-								organizaciones a través de cambios de estructura y
-								gestión del talento. Transformamos a las personas para
-								que eleven su nivel de desempeño en sus vidas y en sus
-								trabajos.
+								Nos enfocamos en la transformación integral de personas,
+								emprendimientos y organizaciones, a través de
+								conferencias, talleres, entrenamientos y consultoría
+								especializada en gestión del talento, liderazgo,
+								estrategia y estructura.
 							</p>
 							<Link href="/contact">
 								<a className="m-btn mt-35">Escribenos</a>

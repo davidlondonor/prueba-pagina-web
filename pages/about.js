@@ -5,14 +5,13 @@ import PageHeader from "../components/PageHeader";
 import About from "../components/About";
 import Experience from "../components/Experience";
 import TeamHome from "../components/TeamHome";
-import Project from "../components/Project";
 import BlogHome from "../components/BlogHome";
 import LetsWork from "../components/LetsWork";
 import Footer from "../components/Footer";
 
 const AboutPage = () => {
 	return (
-		<Layout pageTitle="Maxdi | Business & Digital Agency">
+		<Layout pageTitle="trans | Business & Digital Agency">
 			<PageHeader title="Nosotros" crumbTitle="Nosotros" />
 			<Header
 				heroLogo="/assets/images/logo/logo.svg"
@@ -27,7 +26,6 @@ const AboutPage = () => {
 				/>
 				<Experience extraClass="mt-70" />
 				<TeamHome subTitle="Equipo" />
-				<Project extraClass="project__area-pt" subTitle="Comencemos" />
 				<BlogHome extraClass="pt-110" />
 				<LetsWork />
 			</main>

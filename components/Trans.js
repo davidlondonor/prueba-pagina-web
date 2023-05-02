@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import CountUp from "react-countup";
 import SectionTitle from "./SectionTitle";
 
-const Maxdi = () => {
+const trans = () => {
 	return (
-		<section className="maxdi__area fix p-relative pt-115 pb-145">
-			<div className="maxdi__shape">
+		<section className="trans__area fix p-relative pt-115 pb-145">
+			<div className="trans__shape">
 				<img
 					className="m-shape-1 d-none d-sm-block"
 					src="/assets/images/shape/testimonials/t-shape-1.png"
@@ -31,7 +31,7 @@ const Maxdi = () => {
 			<Container>
 				<Row className="mb-110">
 					<Col xl={12}>
-						<div className="maxdi__title text-center">
+						<div className="trans__title text-center">
 							<SectionTitle
 								subTitle="Somos Transformente"
 								titleFirst="Trabajamos para ti"
@@ -42,38 +42,38 @@ const Maxdi = () => {
 				</Row>
 				<Row>
 					<Col xl={12}>
-						<div className="maxdi__counter">
-							<div className="maxdi__counter-content text-center">
+						<div className="trans__counter">
+							<div className="trans__counter-content text-center">
 								<h2>
 									<CountUp end={500} duration={5} />+
 								</h2>
 								<p>Clientes satisfechos</p>
 							</div>
 						</div>
-						<div className="maxdi__counter maxdi__counter-2">
-							<div className="maxdi__counter-content maxdi__counter-content-2 text-center">
+						<div className="trans__counter trans__counter-2">
+							<div className="trans__counter-content trans__counter-content-2 text-center">
 								<h2>
 									<CountUp end={280} duration={5} />+
 								</h2>
 								<p>Valor entregado</p>
 							</div>
 						</div>
-						<div className="maxdi__content d-flex">
-							<div className="maxdi__thumb-1">
+						<div className="trans__content d-flex">
+							<div className="trans__thumb-1">
 								<img
-									src="/assets/images/maxdi/maxdi-img-1.jpg"
+									src="/assets/images/trans/trans-img-1.jpg"
 									alt=""
 								/>
 							</div>
-							<div className="maxdi__thumb-2">
+							<div className="trans__thumb-2">
 								<img
-									src="/assets/images/maxdi/maxdi-img-2.jpg"
+									src="/assets/images/trans/trans-img-2.jpg"
 									alt=""
 								/>
 							</div>
-							<div className="maxdi__thumb-3">
+							<div className="trans__thumb-3">
 								<img
-									src="/assets/images/maxdi/maxdi-img-3.jpg"
+									src="/assets/images/trans/trans-img-3.jpg"
 									alt=""
 								/>
 							</div>
@@ -85,4 +85,4 @@ const Maxdi = () => {
 	);
 };
 
-export default Maxdi;
+export default trans;

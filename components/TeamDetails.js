@@ -13,7 +13,7 @@ const TeamDetails = () => {
 							<img src="/assets/images/team/member-1.jpg" alt="" />
 						</div>
 						<div className="team__details-thumb-content">
-							<span>Web Developer</span>
+							<span>Founder y CEO</span>
 							<div className="team__details-thumb-social">
 								<Link href="#">
 									<a>
@@ -44,28 +44,14 @@ const TeamDetails = () => {
 						md={7}
 					>
 						<div className="team__details-content">
-							<h2>John Smith</h2>
+							<h2>Nathalia Miranda</h2>
 							<p>
-								Kindling the energy hidden in matter the only home
-								we&apos;ve ever known radio telescope decipherment
-								descended from astronomers rogue. Prime number network
-								of wormholes take root. Kindling the energy hidden in
-								matter the only home we&apos;ve ever known radio
-								telescope decipherment descended from astronomers rogue.
-								Prime number network of wormholes take root. we&apos;ve
-								ever known radio telescope decipherment descended from
-								astronomers rogue. Prime number network of wormholes
-								take root.
+								Creadora de nuevos presentes. Es quién enfoca el
+								pensamiento estratégico en las organizaciones.
+								Apasionada por el liderazgo y por la transformación del
+								ser para lograr resultados superiores en el hacer.
 							</p>
-							<p>
-								Kindling the energy hidden in matter the only home
-								we&apos;ve ever known radio telescope decipherment
-								descended from astronomers rogue. Prime number network
-								of wormholes take root. Matter the only home we&apos;ve
-								ever known radio telescope decipherment descended from
-								astronomers rogue. Prime number network of wormholes
-								take root.
-							</p>
+
 							<div className="team__details-counter d-sm-flex">
 								<div className="team__details-counter-item">
 									<h2>

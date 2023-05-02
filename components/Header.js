@@ -94,8 +94,8 @@ const Header = ({ headerClass, menuClass, sideMenuClass, heroLogo }) => {
 							<div className="contact-list mb-30">
 								<ul>
 									<li>
-										<i className="fas fa-map-marker-alt"></i>66
-										Broklyn Street, New York United States of America
+										<i className="fas fa-map-marker-alt"></i>
+										Medellin, Antioquia
 									</li>
 									<li>
 										<i className="far fa-paper-plane"></i>
@@ -105,30 +105,20 @@ const Header = ({ headerClass, menuClass, sideMenuClass, heroLogo }) => {
 									</li>
 									<li>
 										<i className="fas fa-phone"></i>
-										<Link href="tel:+1166442200">
-											<a>+11 66 44 22 00</a>
+										<Link href="tel:+571234567">
+											<a>+57 785 56 75</a>
 										</Link>
 									</li>
 								</ul>
 								<div className="sidebar__social">
-									<Link href="#">
+									<Link href="https://www.linkedin.com/in/nathalia-miranda/">
 										<a>
-											<i className="fab fa-facebook-f"></i>
+											<i className="fab fa-linkedin"></i>
 										</a>
 									</Link>
-									<Link href="#">
-										<a>
-											<i className="fab fa-twitter"></i>
-										</a>
-									</Link>
-									<Link href="#">
+									<Link href="https://www.instagram.com/nathaliamirandaortiz/">
 										<a>
 											<i className="fab fa-instagram"></i>
-										</a>
-									</Link>
-									<Link href="#">
-										<a>
-											<i className="fab fa-google"></i>
 										</a>
 									</Link>
 								</div>

@@ -25,7 +25,7 @@ const LetsWork = () => {
 							<SectionTitle
 								subTitle="Conversemos el proximo paso"
 								titleFirst="Necesitas una"
-								titleSecond="asesoria?"
+								titleSecond=" asesoria?"
 							/>
 							<Link href="/contact">
 								<a className="m-btn mt-35">Estima un proyecto</a>

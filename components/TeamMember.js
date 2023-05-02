@@ -5,52 +5,46 @@ import TeamMemberCard from "./TeamMemberCard";
 
 const MEMBER_DATA = [
 	{
-		memberImg: "/assets/images/team/member-1.jpg",
-		memberLink: "/single-team",
-		memberName: "John Smith",
-		memberPosition: "Web Developer",
-	},
-	{
 		memberImg: "/assets/images/team/member-2.jpg",
 		memberLink: "/single-team",
-		memberName: "Alisha Alima",
-		memberPosition: "Product Designer",
+		memberName: "Maria Paula Miranda",
+		memberPosition: "Psicóloga",
 	},
 	{
 		memberImg: "/assets/images/team/member-3.jpg",
 		memberLink: "/single-team",
-		memberName: "David Park",
-		memberPosition: "UI/UX Designer",
+		memberName: "Victor Cabrera",
+		memberPosition: "Abogado",
 	},
 	{
-		memberImg: "/assets/images/team/member-4.jpg",
+		memberImg: "/assets/images/team/member-7.jpg",
 		memberLink: "/single-team",
-		memberName: "Tailor Milan",
-		memberPosition: "Marketing Manager",
+		memberName: "Juan Carlos Andrade",
+		memberPosition: "Abogado",
 	},
 	{
 		memberImg: "/assets/images/team/member-1.jpg",
 		memberLink: "/single-team",
-		memberName: "John Smith",
-		memberPosition: "Web Developer",
-	},
-	{
-		memberImg: "/assets/images/team/member-2.jpg",
-		memberLink: "/single-team",
-		memberName: "Alisha Alima",
-		memberPosition: "Product Designer",
-	},
-	{
-		memberImg: "/assets/images/team/member-3.jpg",
-		memberLink: "/single-team",
-		memberName: "David Park",
-		memberPosition: "UI/UX Designer",
+		memberName: "Nathalia Miranda",
+		memberPosition: "CEO & Founder",
 	},
 	{
 		memberImg: "/assets/images/team/member-4.jpg",
 		memberLink: "/single-team",
-		memberName: "Tailor Milan",
-		memberPosition: "Marketing Manager",
+		memberName: "Marcela Moreno",
+		memberPosition: "Manager",
+	},
+	{
+		memberImg: "/assets/images/team/member-5.jpg",
+		memberLink: "/single-team",
+		memberName: "Ana Sofia Ramirez",
+		memberPosition: "Comunicadora Relaciones Corporativas",
+	},
+	{
+		memberImg: "/assets/images/team/member-6.jpg",
+		memberLink: "/single-team",
+		memberName: "Silvia Valencia",
+		memberPosition: "Manager",
 	},
 ];
 

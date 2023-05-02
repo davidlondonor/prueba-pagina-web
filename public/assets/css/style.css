@@ -1,13 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Maxdi
-    Author: Alimasha
-    Support: alimashadesign@gmail.com
-    Description: Creative Agency HTML5 Template 
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
 /************ TABLE OF CONTENTS ***************
 
     01. Common CSS
@@ -23,7 +13,7 @@
     11. Blog CSS
     12. Lets-work CSS
     13. Footer CSS
-    14. Maxdi CSS
+    14. trans CSS
     15. Project CSS
     16. Customers CSS
     17. Pricing CSS
@@ -121,7 +111,7 @@ h5,
 h6 {
 	font-family: "Poppins", sans-serif;
 	font-weight: 600;
-	color: #1d233a;
+	color: #262262;
 	margin: 0px;
 	margin-bottom: 10px;
 }
@@ -249,7 +239,7 @@ textarea {
 	font-size: 60px;
 	line-height: 72px;
 	margin-bottom: 28px;
-	color: #1d233a;
+	color: #262262;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.hero__title {
@@ -313,7 +303,7 @@ textarea {
 	font-size: 50px;
 	line-height: 60px;
 	margin-bottom: 28px;
-	color: #1d233a;
+	color: #262262;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.section__title {
@@ -405,7 +395,7 @@ textarea {
 	-o-transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
 }
 .m-btn:hover {
-	background: #1d233a;
+	background: #262262;
 	color: #c5f617;
 }
 .m-btn:hover::before {
@@ -440,7 +430,7 @@ textarea {
 	font-weight: 500;
 	color: #b3b8d5;
 	padding: 15px 45px;
-	background: #1d233a;
+	background: #262262;
 	border-radius: 50px;
 	-webkit-border-radius: 50px;
 	-moz-border-radius: 50px;
@@ -463,15 +453,15 @@ textarea {
 }
 .s-btn-pink {
 	background: #b19cff;
-	color: #1d233a;
+	color: #262262;
 }
 .s-btn-yellow {
 	background: #f2dac0;
-	color: #1d233a;
+	color: #262262;
 }
 .s-btn-green {
 	background: #c2ea9b;
-	color: #1d233a;
+	color: #262262;
 }
 
 /*----------------------------------------*/
@@ -509,7 +499,7 @@ textarea {
 	z-index: 99;
 }
 .header__area.sticky .main-menu-3 ul li a {
-	color: #1d233a;
+	color: #262262;
 }
 .header__area.sticky .main-menu-3 ul li:hover > a {
 	color: #7432ff;
@@ -518,10 +508,10 @@ textarea {
 	background: #7432ff;
 }
 .header__area.sticky .main-menu-3 .header__right .m-btn:hover {
-	background: #1d233a;
+	background: #262262;
 }
 .header__area-2.sticky {
-	background: #1d233a;
+	background: #262262;
 }
 .header__transparent {
 	position: absolute;
@@ -538,15 +528,15 @@ textarea {
 	color: #f2dac0;
 }
 .header__white .main-menu ul li .submenu li a {
-	color: #1d233a;
+	color: #262262;
 }
 .header__white .main-menu .header__right .m-btn {
-	background: #1d233a;
+	background: #e62868;
 }
 .header__right {
 	padding-top: 10px;
 	padding-bottom: 5px;
-	padding-left: 95px;
+	padding-left: 15px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
 	.header__right {
@@ -575,7 +565,7 @@ textarea {
 	-o-transition: all 0.3s ease-in-out;
 }
 .main-menu ul li a {
-	color: #1d233a;
+	color: #262262;
 	font-family: "Poppins", sans-serif;
 	font-size: 15px;
 	font-weight: 500;
@@ -745,7 +735,7 @@ textarea {
 	background: #fffef2;
 }
 .hero__area-2 {
-	background: #1d233a;
+	background: #262262;
 	padding-bottom: 140px;
 }
 .hero__height {
@@ -1937,7 +1927,7 @@ textarea {
 /*  05. Services CSS
 /*----------------------------------------*/
 .services__area {
-	background: #1d233a;
+	background: #262262;
 }
 .services__shape img {
 	position: absolute;
@@ -2268,7 +2258,7 @@ textarea {
 	margin-bottom: 40px;
 }
 .single__service-content-2 h3 {
-	color: #1d233a;
+	color: #262262;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.single__service-content-2 h3 {
@@ -2892,7 +2882,7 @@ textarea {
 	justify-content: center;
 }
 .portfolio__menu-2 li .nav-link {
-	color: #1d233a;
+	color: #262262;
 }
 .portfolio__menu-2 li .nav-link:hover,
 .portfolio__menu-2 li .nav-link.active {
@@ -3039,7 +3029,7 @@ textarea {
 .portfolio__text h3 {
 	font-size: 24px;
 	font-weight: 600;
-	color: #1d233a;
+	color: #262262;
 	margin-top: 7px;
 }
 .portfolio__text h3 :hover {
@@ -3253,13 +3243,13 @@ textarea {
 	-moz-border-radius: 20px;
 	-ms-border-radius: 20px;
 	-o-border-radius: 20px;
-	background: #1d233a;
+	background: #262262;
 }
 .values__content-icon i.blue {
 	background: #7432ff;
 }
 .values__content-icon i.green {
-	color: #1d233a;
+	color: #262262;
 	background: #e62868;
 }
 .values__content-text h3 {
@@ -3334,7 +3324,7 @@ textarea {
 	width: 60px;
 	top: 18px;
 	right: -80px;
-	background: #1d233a;
+	background: #262262;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.sidebar__content-heading::before {
@@ -3372,7 +3362,7 @@ textarea {
 /*  08. Experience CSS
 /*----------------------------------------*/
 .experience__area {
-	background: #1d233a;
+	background: #262262;
 }
 .experience__shape img {
 	position: absolute;
@@ -4389,7 +4379,7 @@ textarea {
 	left: 116%;
 }
 .blog__link .arrow-btn {
-	color: #1d233a;
+	color: #262262;
 	position: relative;
 	cursor: pointer;
 }
@@ -4606,7 +4596,7 @@ textarea {
 	content: "";
 	left: 0;
 	top: 0;
-	background: #1d233a;
+	background: #262262;
 	opacity: 0.8;
 	z-index: 2;
 	height: 100%;
@@ -4863,7 +4853,7 @@ textarea {
 }
 .sidebar__widget-search {
 	position: relative;
-	background: #1d233a;
+	background: #262262;
 	padding: 38px 34px;
 	border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -4989,7 +4979,7 @@ textarea {
 }
 
 .post__author {
-	background: #1d233a;
+	background: #262262;
 	padding: 40px 50px;
 	border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -5393,7 +5383,7 @@ textarea {
 /*  13. Footer CSS
 /*----------------------------------------*/
 .footer__area {
-	background: #1d233a;
+	background: #262262;
 }
 .footer__area::before {
 	position: absolute;
@@ -5692,15 +5682,15 @@ textarea {
 }
 
 /*----------------------------------------*/
-/*  14. Maxdi CSS
+/*  14. trans CSS
 /*----------------------------------------*/
-.maxdi__area {
+.trans__area {
 	background: #fffef2;
 }
-.maxdi__shape img {
+.trans__shape img {
 	position: absolute;
 }
-.maxdi__shape img.m-shape-1 {
+.trans__shape img.m-shape-1 {
 	top: 18%;
 	left: 16%;
 	max-width: 104px;
@@ -5711,71 +5701,71 @@ textarea {
 	animation: hero-shape-2 2s linear 0s infinite alternate;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1700px) {
-	.maxdi__shape img.m-shape-1 {
+	.trans__shape img.m-shape-1 {
 		left: 8%;
 	}
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__shape img.m-shape-1 {
+	.trans__shape img.m-shape-1 {
 		left: 5%;
 		top: 22%;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.maxdi__shape img.m-shape-1 {
+	.trans__shape img.m-shape-1 {
 		top: 27%;
 		left: 10%;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__shape img.m-shape-1 {
+	.trans__shape img.m-shape-1 {
 		top: 34%;
 		left: 9%;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__shape img.m-shape-1 {
+	.trans__shape img.m-shape-1 {
 		top: 37%;
 		left: 6%;
 	}
 }
-.maxdi__shape img.m-shape-2 {
+.trans__shape img.m-shape-2 {
 	top: 24%;
 	left: 8%;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1700px),
 	only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__shape img.m-shape-2 {
+	.trans__shape img.m-shape-2 {
 		left: 5%;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px),
 	only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__shape img.m-shape-2 {
+	.trans__shape img.m-shape-2 {
 		top: 31%;
 		left: 6%;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__shape img.m-shape-2 {
+	.trans__shape img.m-shape-2 {
 		top: 38%;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__shape img.m-shape-2 {
+	.trans__shape img.m-shape-2 {
 		top: 39%;
 		left: 3%;
 	}
 }
 @media (max-width: 575px) {
-	.maxdi__shape img.m-shape-2 {
+	.trans__shape img.m-shape-2 {
 		top: 47%;
 		left: -12%;
 	}
 }
-.maxdi__shape img.m-shape-3 {
+.trans__shape img.m-shape-3 {
 	top: 30%;
 	right: 22%;
 	max-width: 64px;
@@ -5786,36 +5776,36 @@ textarea {
 }
 @media only screen and (min-width: 1400px) and (max-width: 1700px),
 	only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__shape img.m-shape-3 {
+	.trans__shape img.m-shape-3 {
 		right: 14%;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.maxdi__shape img.m-shape-3 {
+	.trans__shape img.m-shape-3 {
 		right: 9%;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px),
 	only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__shape img.m-shape-3 {
+	.trans__shape img.m-shape-3 {
 		top: 36%;
 		right: 5%;
 	}
 }
 @media (max-width: 575px) {
-	.maxdi__shape img.m-shape-3 {
+	.trans__shape img.m-shape-3 {
 		top: 44%;
 	}
 }
-.maxdi__shape img.m-shape-4 {
+.trans__shape img.m-shape-4 {
 	top: 18%;
 	right: 14%;
 	max-width: 24px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1700px),
 	only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__shape img.m-shape-4 {
+	.trans__shape img.m-shape-4 {
 		right: 8%;
 	}
 }
@@ -5823,84 +5813,84 @@ textarea {
 	only screen and (min-width: 768px) and (max-width: 991px),
 	only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__shape img.m-shape-4 {
+	.trans__shape img.m-shape-4 {
 		top: 11%;
 		right: 6%;
 	}
 }
-.maxdi__title p {
+.trans__title p {
 	padding: 0 350px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__title p {
+	.trans__title p {
 		padding: 0 260px;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.maxdi__title p {
+	.trans__title p {
 		padding: 0 180px;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__title p {
+	.trans__title p {
 		padding: 0 80px;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__title p {
+	.trans__title p {
 		padding: 0;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px),
 	only screen and (min-width: 576px) and (max-width: 767px) {
-	.maxdi__title .section__title span {
+	.trans__title .section__title span {
 		display: inline;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px),
 	only screen and (min-width: 576px) and (max-width: 767px) {
-	.maxdi__title .section__title span::after {
+	.trans__title .section__title span::after {
 		display: none;
 	}
 }
-.maxdi__counter {
+.trans__counter {
 	position: absolute;
 	left: 20%;
 	top: 72%;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1700px),
 	only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__counter {
+	.trans__counter {
 		left: 15%;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.maxdi__counter {
+	.trans__counter {
 		left: 13%;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__counter {
+	.trans__counter {
 		left: 12%;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-	.maxdi__counter {
+	.trans__counter {
 		left: 7%;
 	}
 }
 @media (max-width: 575px) {
-	.maxdi__counter {
+	.trans__counter {
 		left: 10%;
 		top: 80%;
 	}
 }
-.maxdi__counter-content {
+.trans__counter-content {
 	position: relative;
 	z-index: 5;
 }
-.maxdi__counter-content::before {
+.trans__counter-content::before {
 	position: absolute;
 	content: "";
 	width: 223px;
@@ -5917,42 +5907,42 @@ textarea {
 	-moz-border-radius: 50%;
 	-ms-border-radius: 50%;
 	-o-border-radius: 50%;
-	background: #1d233a;
+	background: #262262;
 	opacity: 0.8;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__counter-content::before {
+	.trans__counter-content::before {
 		width: 185px;
 		height: 185px;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__counter-content::before {
+	.trans__counter-content::before {
 		width: 165px;
 		height: 165px;
 	}
 }
-.maxdi__counter-content h2 {
+.trans__counter-content h2 {
 	font-size: 45px;
 	color: #ffffff;
 	position: relative;
 	z-index: 6;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__counter-content h2 {
+	.trans__counter-content h2 {
 		font-size: 38px;
 		margin-bottom: 3px;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__counter-content h2 {
+	.trans__counter-content h2 {
 		font-size: 32px;
 		margin-bottom: 1px;
 	}
 }
-.maxdi__counter-content p {
+.trans__counter-content p {
 	font-size: 18px;
 	color: #ffffff;
 	margin-bottom: 0;
@@ -5960,69 +5950,69 @@ textarea {
 	z-index: 6;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__counter-content p {
+	.trans__counter-content p {
 		font-size: 17px;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__counter-content p {
+	.trans__counter-content p {
 		font-size: 15px;
 	}
 }
-.maxdi__counter-content-2::before {
+.trans__counter-content-2::before {
 	background: #7432ff;
 	opacity: 0.9;
 }
-.maxdi__counter-2 {
+.trans__counter-2 {
 	left: 73%;
 	top: 67%;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1700px) {
-	.maxdi__counter-2 {
+	.trans__counter-2 {
 		left: 76%;
 	}
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__counter-2 {
+	.trans__counter-2 {
 		left: 80%;
 		top: 70%;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.maxdi__counter-2 {
+	.trans__counter-2 {
 		left: 81%;
 		top: 77%;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px),
 	only screen and (min-width: 576px) and (max-width: 767px) {
-	.maxdi__counter-2 {
+	.trans__counter-2 {
 		left: 78%;
 	}
 }
 @media (max-width: 575px) {
-	.maxdi__counter-2 {
+	.trans__counter-2 {
 		left: 60%;
 		top: 86%;
 	}
 }
-.maxdi__thumb-1 {
+.trans__thumb-1 {
 	position: relative;
 	margin-left: 209px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__thumb-1 {
+	.trans__thumb-1 {
 		margin-left: 100px;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px),
 	(max-width: 575px) {
-	.maxdi__thumb-1 {
+	.trans__thumb-1 {
 		margin-left: 0;
 	}
 }
-.maxdi__thumb-1::before {
+.trans__thumb-1::before {
 	position: absolute;
 	content: "";
 	width: 540px;
@@ -6039,44 +6029,44 @@ textarea {
 	-moz-border-radius: 50%;
 	-ms-border-radius: 50%;
 	-o-border-radius: 50%;
-	background: #1d233a;
+	background: #262262;
 	opacity: 0.9;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__thumb-1::before {
+	.trans__thumb-1::before {
 		width: 510px;
 		height: 510px;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.maxdi__thumb-1::before {
+	.trans__thumb-1::before {
 		width: 440px;
 		height: 440px;
 		top: 48.5%;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__thumb-1::before {
+	.trans__thumb-1::before {
 		width: 350px;
 		height: 350px;
 		top: 45.5%;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-	.maxdi__thumb-1::before {
+	.trans__thumb-1::before {
 		width: 320px;
 		height: 320px;
 		top: 43.5%;
 	}
 }
 @media (max-width: 575px) {
-	.maxdi__thumb-1::before {
+	.trans__thumb-1::before {
 		width: 260px;
 		height: 260px;
 		top: 39.5%;
 	}
 }
-.maxdi__thumb-1 img {
+.trans__thumb-1 img {
 	position: relative;
 	object-fit: cover;
 	width: 485px;
@@ -6088,12 +6078,12 @@ textarea {
 	-o-border-radius: 50%;
 	opacity: 0.8;
 }
-.maxdi__thumb-2 {
+.trans__thumb-2 {
 	position: relative;
 	margin-left: -35px;
 	margin-top: 130px;
 }
-.maxdi__thumb-2 img {
+.trans__thumb-2 img {
 	position: relative;
 	object-fit: cover;
 	width: 338px;
@@ -6106,11 +6096,11 @@ textarea {
 	opacity: 0.8;
 	z-index: 2;
 }
-.maxdi__thumb-3 {
+.trans__thumb-3 {
 	position: relative;
 	margin-left: -84px;
 }
-.maxdi__thumb-3::before {
+.trans__thumb-3::before {
 	position: absolute;
 	content: "";
 	width: 300px;
@@ -6132,40 +6122,40 @@ textarea {
 	z-index: 1;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-	.maxdi__thumb-3::before {
+	.trans__thumb-3::before {
 		width: 280px;
 		height: 280px;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.maxdi__thumb-3::before {
+	.trans__thumb-3::before {
 		width: 240px;
 		height: 240px;
 		top: 25.3%;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.maxdi__thumb-3::before {
+	.trans__thumb-3::before {
 		width: 200px;
 		height: 200px;
 		top: 23.5%;
 	}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-	.maxdi__thumb-3::before {
+	.trans__thumb-3::before {
 		width: 180px;
 		height: 180px;
 		top: 22.5%;
 	}
 }
 @media (max-width: 575px) {
-	.maxdi__thumb-3::before {
+	.trans__thumb-3::before {
 		width: 160px;
 		height: 160px;
 		top: 21.5%;
 	}
 }
-.maxdi__thumb-3 img {
+.trans__thumb-3 img {
 	position: relative;
 	object-fit: cover;
 	width: 255px;
@@ -6602,7 +6592,7 @@ textarea {
 	content: "";
 	width: 1027px;
 	height: 432px;
-	background: #1d233a;
+	background: #262262;
 	right: 0;
 	border-radius: 20px 0 0 132px;
 	-webkit-border-radius: 20px 0 0 132px;
@@ -6787,7 +6777,7 @@ textarea {
 /*  17. Pricing CSS
 /*----------------------------------------*/
 .pricing__area {
-	background: #1d233a;
+	background: #262262;
 }
 .pricing__shape img {
 	position: absolute;
@@ -6996,7 +6986,7 @@ textarea {
 	font-weight: 600;
 	padding: 15px 40px;
 	line-height: 1;
-	color: #1d233a;
+	color: #262262;
 	border-radius: 30px;
 	-webkit-border-radius: 30px;
 	-moz-border-radius: 30px;
@@ -7007,7 +6997,7 @@ textarea {
 	margin-bottom: 0;
 }
 .pricing__nav li .nav-link.active {
-	background: #1d233a;
+	background: #262262;
 	color: #ffffff;
 }
 .pricing__nav li .nav-link:hover,
@@ -7049,32 +7039,32 @@ textarea {
 	background: #7432ff;
 }
 .pricing__box:hover .pricing__amount h2 {
-	color: #1d233a;
+	color: #262262;
 }
 .pricing__box:hover .pricing__amount::before {
-	border-color: #1d233a;
+	border-color: #262262;
 	width: 100%;
 }
 .pricing__box:hover .pricing__item ul li::after {
-	color: #1d233a;
+	color: #262262;
 }
 .pricing__box:hover .pricing__link .m-btn {
-	background: #1d233a;
+	background: #262262;
 }
 .pricing__box.active {
 	background: #7432ff;
 }
 .pricing__box.active .pricing__amount h2 {
-	color: #1d233a;
+	color: #262262;
 }
 .pricing__box.active .pricing__amount::before {
-	border-color: #1d233a;
+	border-color: #262262;
 }
 .pricing__box.active .pricing__item ul li::after {
-	color: #1d233a;
+	color: #262262;
 }
 .pricing__box.active .pricing__link .m-btn {
-	background: #1d233a;
+	background: #262262;
 }
 .pricing__header {
 	margin-bottom: 20px;
@@ -7175,7 +7165,7 @@ textarea {
 /*  18. Page-title CSS
 /*----------------------------------------*/
 .page__title-area {
-	background: #7432ff;
+	background: #262262;
 }
 .page__title-height {
 	min-height: 640px;
@@ -7372,7 +7362,7 @@ textarea {
 	color: #f2dac0;
 }
 .breadcrumb-item a:hover {
-	color: #1d233a;
+	color: #262262;
 }
 .breadcrumb-item + .breadcrumb-item {
 	padding-left: 10px;
@@ -7637,7 +7627,7 @@ textarea {
 	content: "";
 	left: 0;
 	top: 0;
-	background: #7432ff;
+	background: #e62868;
 	opacity: 0.8;
 	z-index: 1;
 	height: 100%;
@@ -7653,7 +7643,7 @@ textarea {
 	content: "";
 	left: 0;
 	top: -13px;
-	background: #7432ff;
+	background: #262262;
 	opacity: 0.8;
 	z-index: 1;
 	height: 100%;
@@ -8043,7 +8033,7 @@ textarea {
 	content: "";
 	left: 0;
 	top: 0;
-	background: #1d233a;
+	background: #262262;
 	z-index: 1;
 	opacity: 0.9;
 	width: 100%;

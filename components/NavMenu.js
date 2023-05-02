@@ -35,6 +35,26 @@ const NavMenu = () => {
 				</Link>
 			</li>
 			<li>
+				<Link href="/contact">
+					<a>Contact</a>
+				</Link>
+			</li>
+			<li>
+				<Link href="/blog">
+					<a>Blog</a>
+				</Link>
+			</li>
+			<li>
+				<Link href="/team">
+					<a>Team</a>
+				</Link>
+			</li>
+			{/* <li>
+				<Link href="/single-team">
+					<a>Team Details</a>
+				</Link>
+			</li> */}
+			{/* <li>
 				<Link href="/about">
 					<a>Pages</a>
 				</Link>
@@ -68,8 +88,13 @@ const NavMenu = () => {
 						</Link>
 					</li>
 				</ul>
-			</li>
+			</li> */}
 			<li>
+				<Link href="/services">
+					<a>Servicios</a>
+				</Link>
+			</li>
+			{/* <li>
 				<Link href="/services">
 					<a>Servicios</a>
 				</Link>
@@ -88,8 +113,13 @@ const NavMenu = () => {
 						</Link>
 					</li>
 				</ul>
-			</li>
-			<li>
+			</li> */}
+			{/* <li>
+				<Link href="/portfolio">
+					<a>Portafolio</a>
+				</Link>
+			</li> */}
+			{/* <li>
 				<Link href="/portfolio">
 					<a>Portfolio</a>
 				</Link>
@@ -108,7 +138,7 @@ const NavMenu = () => {
 						</Link>
 					</li>
 				</ul>
-			</li>
+			</li> */}
 		</ul>
 	);
 };
