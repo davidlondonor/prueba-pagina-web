@@ -55,7 +55,7 @@ const Hero = () => {
 						<div className="hero__content">
 							<h4 className="section__sub-title">Nosotros</h4>
 							<h2 className="hero__title">
-								<span>Creamos futuro</span>
+								<span>Creamos futuro </span>
 								Transformamos presentes para crear futuros.
 							</h2>
 							<p>
