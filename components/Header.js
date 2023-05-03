@@ -105,8 +105,8 @@ const Header = ({ headerClass, menuClass, sideMenuClass, heroLogo }) => {
 									</li>
 									<li>
 										<i className="fas fa-phone"></i>
-										<Link href="tel:+571234567">
-											<a>+57 785 56 75</a>
+										<Link href="tel:+573007855675">
+											<a>+57 300 785 56 75</a>
 										</Link>
 									</li>
 								</ul>
